@@ -1,6 +1,8 @@
 # Resources on R
  ## Learning R
- → [DataCamp R Courses](https://www.datacamp.com/data-courses/r-courses)
+→ [DataCamp R Courses](https://www.datacamp.com/data-courses/r-courses)
+
+→ [Data Science in R: From Basics to Machine Learning](https://www.educative.io/courses/data-science-in-r-from-basics-to-machine-learning)
  
 ## Influencers
 👤 [Lauren Chadwick](https://www.linkedin.com/in/laurenchadwick6/)
@@ -20,9 +22,9 @@
 
  
  ## Communities 
- 🫂 [R-Ladies](https://rladies.org/)
- 
- 🫂 [R for Data Science Online Learning Community (R4DS OL)](https://rfordatasci.com/)
+🫂 [R-Ladies](https://rladies.org/)
+
+🫂 [R for Data Science Online Learning Community (R4DS OL)](https://rfordatasci.com/)
  
 ## Podcasts
 🎙️[RSE Stories](https://us-rse.org/rse-stories/)
