@@ -1,8 +1,11 @@
 # Resources on R
  ## Learning R
-→ [DataCamp R Courses](https://www.datacamp.com/data-courses/r-courses)
+→ [DataCamp: R Courses](https://www.datacamp.com/data-courses/r-courses)
 
-→ [Data Science in R: From Basics to Machine Learning](https://www.educative.io/courses/data-science-in-r-from-basics-to-machine-learning)
+→ [Educative.io: Data Science in R: From Basics to Machine Learning](https://www.educative.io/courses/data-science-in-r-from-basics-to-machine-learning)
+
+→ [Codecademy: Learn R](https://www.codecademy.com/learn/learn-r)
+
  
 ## Influencers
 👤 [Lauren Chadwick](https://www.linkedin.com/in/laurenchadwick6/)
