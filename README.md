@@ -3,24 +3,17 @@
  → [DataCamp R Courses](https://www.datacamp.com/data-courses/r-courses)
  
 ## Influencers
- 👤 [Lauren Chadwick](https://www.linkedin.com/in/laurenchadwick6/)
- 
- 👤 [Hadley Wickham](https://www.linkedin.com/in/hadleywickham/)
- 
- 👤 [Eric Nantz](https://www.linkedin.com/in/eric-nantz-6621617/)
-
- 👤 [Gabriela de Queiro](https://www.linkedin.com/in/gabrieladequeiroz/)
+👤 [Lauren Chadwick](https://www.linkedin.com/in/laurenchadwick6/)
+👤 [Hadley Wickham](https://www.linkedin.com/in/hadleywickham/)
+👤 [Eric Nantz](https://www.linkedin.com/in/eric-nantz-6621617/)
+👤 [Gabriela de Queiro](https://www.linkedin.com/in/gabrieladequeiroz/)
  
 
 ## Newsletters
 📰 [R Weekly](https://rweekly.org/)
-
 📰 [rOpenSci Newsletter](https://ropensci.org/blog/)
-
 📰 [The R Journal](https://journal.r-project.org/news.html)
-
 📰 [Shiny Developer Series](https://shinydevseries.com/)
-
 📰 [R Bloggers](https://www.r-bloggers.com/)
 
 
