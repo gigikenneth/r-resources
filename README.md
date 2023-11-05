@@ -4,7 +4,11 @@
 
 → [Educative.io: Data Science in R: From Basics to Machine Learning](https://www.educative.io/courses/data-science-in-r-from-basics-to-machine-learning)
 
-→ [Codecademy: Learn R](https://www.codecademy.com/learn/learn-r)
+→ [Codecademy: Learn R (Free)](https://www.codecademy.com/learn/learn-r)
+
+→ [Educative.io: Learn R from Scratch](https://www.educative.io/courses/learn-r-from-scratch)
+
+→ [Hackr.io: R Tutorials and Courses List](https://hackr.io/tutorials/learn-r#:~:text=Check%20out%20these%20best%20online,R%20community%27s%20reviews%20%26%20comments)
 
  
 ## Influencers
@@ -15,6 +19,7 @@
  
 
 ## Newsletters
+📰 [Shiny Weekly](https://appsilon.us16.list-manage.com/subscribe?u=c042d7c0dbf57c5c6f8b54598&id=870d5bfc05)
 📰 [R Weekly](https://rweekly.org/)
 📰 [rOpenSci Newsletter](https://ropensci.org/blog/)
 📰 [The R Journal](https://journal.r-project.org/news.html)
@@ -31,6 +36,3 @@
  
 ## Podcasts
 🎙️[RSE Stories](https://us-rse.org/rse-stories/)
-
-## Life Sciences in R
- 🧬
