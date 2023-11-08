@@ -33,6 +33,8 @@
 🫂 [R-Ladies](https://rladies.org/)
 
 🫂 [R for Data Science Online Learning Community (R4DS OL)](https://rfordatasci.com/)
+
+🫂 [R Open Science Community](https://ropensci.org/community/)
  
 ## Podcasts
 🎙️[RSE Stories](https://us-rse.org/rse-stories/)
