@@ -13,17 +13,25 @@
  
 ## Influencers
 👤 [Lauren Chadwick](https://www.linkedin.com/in/laurenchadwick6/)
+
 👤 [Hadley Wickham](https://www.linkedin.com/in/hadleywickham/)
+
 👤 [Eric Nantz](https://www.linkedin.com/in/eric-nantz-6621617/)
+
 👤 [Gabriela de Queiro](https://www.linkedin.com/in/gabrieladequeiroz/)
  
 
 ## Newsletters
 📰 [Shiny Weekly](https://appsilon.us16.list-manage.com/subscribe?u=c042d7c0dbf57c5c6f8b54598&id=870d5bfc05)
+
 📰 [R Weekly](https://rweekly.org/)
+
 📰 [rOpenSci Newsletter](https://ropensci.org/blog/)
+
 📰 [The R Journal](https://journal.r-project.org/news.html)
+
 📰 [Shiny Developer Series](https://shinydevseries.com/)
+
 📰 [R Bloggers](https://www.r-bloggers.com/)
 
 
